@@ -41,7 +41,7 @@ setup(
         'wiz = season.cmd:main [season]'
     ]},
     install_requires=[
-        'werkzeug==3.0.1',
+        'werkzeug==3.0.6',
         'jinja2==3.1.3',
         'texttable',
         'flask==3.0.2',
