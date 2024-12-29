@@ -42,7 +42,7 @@ setup(
     ]},
     install_requires=[
         'werkzeug==3.0.1',
-        'jinja2==3.1.3',
+        'jinja2==3.1.5',
         'texttable',
         'flask==3.0.2',
         'python-socketio==5.11.1',
